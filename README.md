@@ -4,9 +4,9 @@
 Percentage calculator made with Jetpack Compose
 
 ## Feature
-- Material You design
+- <a href="https://source.android.com/docs/core/display/material">Material You design</a>  
 - Adaptive Colors
-- Adaptive Icon
+- <a href="https://developer.android.com/develop/ui/views/launch/icon_design_adaptive">Adaptive Icon</a>  
 - <a href="https://developer.android.com/jetpack/compose/glance">Jetpack Glance Widget</a>
 
 ## Preview
