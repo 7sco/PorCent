@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PorCent</string>
+    <string name="bill_total">Bill total</string>
+    <string name="split_total">Split total</string>
+    <string name="split">Split</string>
+    <string name="default_tip">\%% %s</string>
+    <string name="default_total">$ 0.0</string>
+    <string name="tip_percent">Tip percent</string>
+    <string name="tip_calculator">Tip Calculator</string>
+    <string name="total">$ %s</string>
+    <string name="total_each">/ea.</string>
+</resources>
