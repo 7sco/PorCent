@@ -23,3 +23,6 @@ private fun calculatePercentage(total: Double, percent: Double): Double =
     (percent / 100.toDouble()) * total
 
 
+fun main() {
+    println(calculateTip("125.5", "1", 1))
+}
