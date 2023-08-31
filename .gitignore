@@ -5,6 +5,9 @@
 /captures
 .externalNativeBuild
 .cxx
+/.idea/libraries
+/.idea/workspace.xml
+
 
 # Mac Finder hidden files
 .DS_Store
